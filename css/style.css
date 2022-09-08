@@ -1,0 +1,46 @@
+@import url('https://fonts.googleapis.com/css2?family=Plus+Jakarta+Sans:wght@300&display=swap');
+
+.textSite{
+    font-family: 'Plus Jakarta Sans', sans-serif;
+    font-weight: bold;
+    color: #e0c389;
+}
+
+#bgImagen{
+    background-image: url(../img/fondo.jpg);
+    background-color: #2e2e30;
+
+}
+
+#bgCard{
+    background-color: #2e2e30;
+
+}
+
+img, select{
+    border: #e0c389;
+    border-style: solid;
+    width: 15%;
+}
+
+.divHoroscopo {
+    text-align: center;
+}
+.divHoroscopo p {
+    color: #fff;
+    font-size: 25px;
+}
+option{
+    background-color: #2e2e30;
+    color: #e0c389;
+}
+
+p{
+    font-family: 'Plus Jakarta Sans', sans-serif;
+    color: #e0c389; 
+}
+
+.bgDiv{
+    background-color: #e0c389; 
+    color: #2e2e30;
+}
